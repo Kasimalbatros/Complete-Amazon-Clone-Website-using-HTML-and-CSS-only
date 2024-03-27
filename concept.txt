@@ -1,0 +1,25 @@
+<ul>
+    <p>
+        Get to Know Us
+    </p>
+    <a>Careers</a>
+    <a>Blog</a>
+    <a>About Amazon</a>
+    <a>Investor Relations</a>
+    <a>Amazon Devices</a>
+    <a>Amazon Science</a>
+</ul>
+<ul>
+    <p>
+        Get to Know Us
+    </p>
+    <a>Careers</a>
+    <a>Blog</a>
+    <a>About Amazon</a>
+    <a>Investor Relations</a>
+    <a>Amazon Devices</a>
+    <a>Amazon Science</a>
+</ul>
+--------------------------------------
+Q1.If Anchor tags are created inside Unordered list then how to arrange this vertical to Horizontally?
+Ans:display:block;
